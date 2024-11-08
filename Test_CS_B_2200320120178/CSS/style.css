@@ -1,0 +1,27 @@
+div{
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid red;
+}
+input{
+    width: 100%;
+    padding: 5px;
+    border-radius: 8px;
+    font-size: 20px;
+    margin: 12px 0px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+label{
+    font-size: larger;
+}
+.btn{
+background-color: aqua;
+cursor: pointer;
+}
+.btn:hover{
+background-color: rgb(14, 191, 191);
+}
